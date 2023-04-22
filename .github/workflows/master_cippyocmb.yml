@@ -26,4 +26,4 @@ jobs:
           app-name: 'cippyocmb'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B92CDE032A624CD992D69B806CBBAC91 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C190DE88336D4DD7876BF5052DFF6D9A }}
